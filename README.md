@@ -1,6 +1,7 @@
 # Seerror – The AI Agent That Sees What You Can’t 👁️‍🗨️  
 
 **✰ Audit. Secure. Optimize.**  
+*“Squashing bugs before they bug you.”* 🐞✨ 
 
 Seerror transforms website risks into growth opportunities with enterprise-grade diagnostics, actionable insights, and tailored solutions  **no subscriptions, just results.**  
 
