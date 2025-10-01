@@ -2,7 +2,7 @@
 
 **✰ Audit. Secure. Optimize.**  
 
-Seerror transforms website risks into growth opportunities with enterprise-grade diagnostics, actionable insights, and tailored solutions — **no subscriptions, just results.**  
+Seerror transforms website risks into growth opportunities with enterprise-grade diagnostics, actionable insights, and tailored solutions  **no subscriptions, just results.**  
 
 ---
 
