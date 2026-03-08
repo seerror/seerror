@@ -1,9 +1,11 @@
 <div align="center">
 
-<img src="seerror.svg" width="100%" alt="Seerror"/>
+<img src="seerror-banner.svg" width="100%" alt="Seerror"/>
 
 ### The AI That Sees What You Can't
 **✰ Audit. Secure. Optimize. Protect.**
+
+*Squashing bugs before they bug you.*
 
 AI-powered cybersecurity tools that detect what humans miss —
 website vulnerabilities, surveillance threats, data leaks, and AI dependence.
