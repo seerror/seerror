@@ -1,6 +1,6 @@
 <div align="center">
 
-![Seerror](seerror.svg)
+<img src="seerror-banner.svg" width="100%" alt="Seerror"/>
 
 ### The AI That Sees What You Can't
 **✰ Audit. Secure. Optimize. Protect.**
